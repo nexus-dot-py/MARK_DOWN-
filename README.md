@@ -32,7 +32,7 @@ TABLE
 
 | NUMBER | NAME  | CHECK BOX |
 | -------------------------- |
-| 001    | NEXUS | [×]       |
+| 001    | NEXUS | HELL      |
 
 
 ```bash
