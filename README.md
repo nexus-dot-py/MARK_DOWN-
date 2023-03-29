@@ -1,7 +1,7 @@
 # MARK_DOWN-
 
 
-##MARK DOWN
+## MARK DOWN
 ***
 
 **Hello** this my new *markdown page*
@@ -13,10 +13,10 @@ There are minor variations and discrepancies between Markdown processors — tho
 There are two types of list in **MD**
 
 - ORDERED LIST
-    1 It is used when order has importance
-    2 It uses numbers
+      1 It is used when order has importance
+      2 It uses numbers
 - UNORDERED LIST
-    1 It is used when order has no importance
-    2 It uses symbols
-        >Blockquotes can contain other Markdown formatted elements.
-        >Not all elements can be used — you’ll need to experiment to see which ones work.
+      1 It is used when order has no importance
+      2 It uses symbols
+            >Blockquotes can contain other Markdown formatted elements.
+            >Not all elements can be used — you’ll need to experiment to see which ones work.
