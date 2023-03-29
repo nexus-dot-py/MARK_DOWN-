@@ -26,4 +26,18 @@ There are two types of list in **MD**
     > Blockquotes can contain other Markdown formatted elements.
     > Not all elements can be used — you’ll need to experiment to see which ones work.
 
+**[GOOGLE](https://www.google.com "Google")
 
+TABLE
+
+| NUMBER | NAME  | CHECK BOX |
+| -------------------------- |
+| 001    | NEXUS | [×]       |
+
+
+```bash
+ cd
+ ls
+ nano fn.sh
+
+```
