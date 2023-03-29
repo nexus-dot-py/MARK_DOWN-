@@ -15,7 +15,6 @@ There are two types of list in **MD**
 - ORDERED LIST
 
       1 It is used when order has importance
-
       2 It uses numbers
 
 - UNORDERED LIST
@@ -25,8 +24,8 @@ There are two types of list in **MD**
       2 It uses symbols
 
 
-            > Blockquotes can contain other Markdown formatted elements.
+            >Blockquotes can contain other Markdown formatted elements.
             >
-            > Not all elements can be used — you’ll need to experiment to see which ones work.
+            >Not all elements can be used — you’ll need to experiment to see which ones work.
 
 
