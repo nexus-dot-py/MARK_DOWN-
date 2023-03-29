@@ -1,7 +1,7 @@
 # MARK_DOWN-
+***
 
-
-## **Introduction**
+> ## **Introduction**
 ***
 
 **Hello** this my new *markdown page*
@@ -21,7 +21,9 @@ There are two types of list in **MD**
 
       - It is used when order has no importance.
       - It uses symbols.
-              > Blockquotes can contain other Markdown formatted elements.
-              > Not all elements can be used — you’ll need to experiment to see which ones work.
+          
+
+          > Blockquotes can contain other Markdown formatted elements.
+          > Not all elements can be used — you’ll need to experiment to see which ones work.
 
 
