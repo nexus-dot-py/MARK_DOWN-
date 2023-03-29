@@ -13,13 +13,14 @@ There are minor variations and discrepancies between Markdown processors — tho
 There are two types of list in **MD**
 
 1 ORDERED LIST
+
       - It is used when order has importance.
       - It uses numbers.
 
 2 UNORDERED LIST
+
       - It is used when order has no importance.
       - It uses symbols.
-
               > Blockquotes can contain other Markdown formatted elements.
               > Not all elements can be used — you’ll need to experiment to see which ones work.
 
